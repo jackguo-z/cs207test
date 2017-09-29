@@ -1,4 +1,4 @@
-from L2 import *
+from roots import *
 
 def test_L2():
     assert L2([3,4]) == 5.0
